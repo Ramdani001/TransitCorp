@@ -1,6 +1,7 @@
 <template>
     <Header />
     <Hero />
+    <Hero />
 
 </template>
 
